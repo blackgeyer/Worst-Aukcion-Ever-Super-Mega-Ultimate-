@@ -17,7 +17,7 @@ If you know my actual production work (like *A.P.V.E.*), you know **this is 100%
 
 ## 💡 Revolutionary "Features" & Philosophical Choice
 
-- **The Absolute Anti-Capitalist Market (Zero Purchasing):** You literally **cannot buy any items**. Clicking to purchase does nothing, fails silently, or locks up the transaction. This is not a bug — it is the *meaning of life*. It teaches players that material possessions are fleeting, greed is an illusion, and the auction house exists purely as a digital museum for items you can look at but never touch.
+- **The Absolute Anti-Capitalist Market (Zero Purchasing):** You literally **cannot buy any items**. Clicking to purchase does nothing, fails silently, or locks up the transaction. This is not a bug — it is the *meaning of life*. It teaches players that material possessions are fleeting, greed is an illusion, and the auction house exists purely as a digital museum for items you can look at but never touch. Or it just dupe the item xD
 - **Ultron AI Incubation Engine:** Executes heavy, unindexed synchronous SQLite queries directly on the main Bukkit thread during every single inventory click. 
   - *Note on thermals:* If your processor suddenly starts creaking at 90°C or your hosting provider sends you a bill for $9,000/day, do not panic. Your server has simply rethought humanity and started creating a new Ultron directly on your CPU. 
   - *Disaster Prevention:* To prevent a new global disaster, open a urgent support ticket asking your hosting provider to stop scrolling political news on TikTok and split your server node in two with an axe. If you self-host on a local rig, hand that ticket (and the axe) to yourself.
