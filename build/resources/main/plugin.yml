@@ -1,0 +1,10 @@
+name: WorstAukcionSuperMegaUltimate
+version: '1.0.0'
+main: WorstAukcionSuperMegaUltimate
+api-version: '1.21'
+depend:
+  - Vault
+commands:
+  ah:
+    description: Main auction command
+    usage: /ah
