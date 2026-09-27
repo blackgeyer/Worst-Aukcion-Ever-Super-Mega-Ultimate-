@@ -1,0 +1,22 @@
+lot-duration-hours: 48
+max-price: 1000000
+
+
+slot-limits:
+  - group: "dev"
+    permission: "auctionhouse.slots.dev"
+    slots: 9999
+  - group: "three"
+    permission: "auctionhouse.slots.three"
+    slots: 100
+  - group: "two"
+    permission: "auctionhouse.slots.two"
+    slots: 50
+  - group: "one"
+    permission: "auctionhouse.slots.one"
+    slots: 20
+  - group: "default"
+    permission: ""
+    slots: 10
+
+  
